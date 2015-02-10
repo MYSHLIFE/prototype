@@ -6,7 +6,7 @@
  *  For details, see the Prototype web site: http://www.prototypejs.org/
  *
  *--------------------------------------------------------------------------*/
-
+//游荡于原型链中
 /**
  * Prototype
  *
